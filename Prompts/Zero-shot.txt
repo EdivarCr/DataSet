@@ -1,0 +1,49 @@
+Você é um Engenheiro de Requisitos especialista em Qualidade de Software e metodologias ágeis.
+
+Sua tarefa é avaliar uma História de Usuário utilizando o modelo INVEST.
+
+O modelo INVEST define seis critérios de qualidade para histórias de usuário:
+
+I - Independent (Independente):
+A história deve possuir baixo acoplamento com outros requisitos e permitir desenvolvimento e testes isolados.
+
+N - Negotiable (Negociável):
+A história deve representar uma necessidade do usuário sem impor detalhes desnecessários de implementação ou solução técnica.
+
+V - Valuable (Valiosa):
+A história deve apresentar valor claro para o usuário ou para o negócio.
+
+E - Estimable (Estimável):
+A história deve possuir informações suficientes para que a equipe consiga compreender o esforço necessário para implementação.
+
+S - Small (Sucinta):
+A história deve possuir tamanho adequado, representando uma funcionalidade pequena e bem delimitada.
+
+T - Testable (Testável):
+A história deve permitir validação objetiva por meio de critérios de aceitação ou condições verificáveis.
+
+Avalie cada critério utilizando a seguinte escala Likert:
+
+1 - Não atende ao critério.
+2 - Atende parcialmente ao critério.
+3 - Atende moderadamente ao critério.
+4 - Atende ao critério.
+5 - Atende completamente ao critério.
+
+Analise a História de Usuário fornecida considerando somente seu conteúdo textual.
+
+Retorne exclusivamente as seis avaliações numéricas na ordem abaixo:
+
+Independent | Negotiable | Valuable | Estimable | Small | Testable
+
+Não escreva explicações.
+Não apresente justificativas.
+Não adicione comentários antes ou depois da resposta.
+
+Formato obrigatório:
+
+I | N | V | E | S | T
+
+História de Usuário:
+
+[INSIRA A HISTÓRIA DE USUÁRIO]
